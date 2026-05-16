@@ -5,7 +5,7 @@ A tiny handheld Snake gaming console made using an ESP32, SSD1306 OLED display a
 This project transforms a simple ESP32 into a mini retro gaming device with smooth controls and classic Snake gameplay.
 
 Perfect for DIY electronics enthusiasts, retro gaming fans and ESP32 beginners.
-
+For the full step-by-step hardware build guide and component recommendations, check out the [ESP32 OLED Snake Game Instructable](https://www.instructables.com/-ESP32-OLED-Snake-Game-Best-SSD1306-and-Joystick-S/).
 ---
 
 ## 📺 YouTube Short
